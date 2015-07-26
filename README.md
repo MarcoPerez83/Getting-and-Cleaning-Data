@@ -1,5 +1,4 @@
-# Getting-and-Cleaning-Data
-This is the material for Getting and Cleaning Data 
+
 # Getting and Cleaning Data - Course Project
 
 This is the course project for the Getting and Cleaning Data Coursera course.
